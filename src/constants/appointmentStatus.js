@@ -1,0 +1,2 @@
+// appointmentStatus.js
+module.exports = {};

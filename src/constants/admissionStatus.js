@@ -1,0 +1,2 @@
+// admissionStatus.js
+module.exports = {};
